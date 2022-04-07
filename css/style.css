@@ -1,0 +1,47 @@
+body{
+    flex-wrap: wrap;
+    font-size: larger;
+    color: rgba(230, 230, 230, 0.781);
+    text-align: start;
+    background-color: rgb(22, 21, 21);
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+
+}
+
+a:link, a:visited {
+    color: rgba(230, 230, 230, 0.781);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+nav a{
+    margin-bottom: 1%;
+    margin-right: 2%;
+}
+
+button{
+    padding: 1%;
+    background-color: rgba(240, 239, 239, 0.781);
+    margin: 1;
+    margin-top: 2%;
+    opacity: 0.6;
+    transition: 0.3s;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 1;
+}
+button a:link, button a:visited{
+    color: rgb(24, 24, 24);
+}
+
+
+
+
+
+
+  
